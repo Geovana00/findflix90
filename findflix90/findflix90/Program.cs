@@ -16,7 +16,12 @@ namespace findflix90
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Inicio());
+
+            //CRIAMOS UM OBKETO DA CLASSE CONFIGURAÇÃO 
+
+            Configuracao configuracao = new Configuracao(); 
+
         }
     }
 }

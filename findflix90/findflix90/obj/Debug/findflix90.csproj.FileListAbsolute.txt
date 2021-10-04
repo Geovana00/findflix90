@@ -1,0 +1,10 @@
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\obj\Debug\findflix90.csproj.AssemblyReference.cache
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\obj\Debug\findflix90.Properties.Resources.resources
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\obj\Debug\findflix90.csproj.GenerateResource.cache
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\obj\Debug\findflix90.csproj.CoreCompileInputs.cache
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\bin\Debug\findflix90.exe.config
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\bin\Debug\findflix90.exe
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\bin\Debug\findflix90.pdb
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\obj\Debug\findflix90.exe
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\obj\Debug\findflix90.pdb
+C:\Users\geova\OneDrive\Documentos\T89\FINDFLIX90+\findflix90\findflix90\findflix90\obj\Debug\findflix90.Inicio.resources
